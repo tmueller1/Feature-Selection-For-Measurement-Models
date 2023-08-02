@@ -2,13 +2,13 @@
 
 
 This is the code and the data set necessary to reproduce our results from the article Feature selection for measurement models in the International Journal for Quality and Reliability Management.
-The article is currently under review by the journal. 
+
 
 Authors: Mueller, Tobias; Segin, Alexander; Weigand, Christoph; Schmitt, Robert
 
 Chair of Production Metrology and Quality Management at the Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University - Campus Boulevard 30, 52074 Aachen, Germany
 
-Please cite this code or the data set as: BibTex will be added after publication
+Please cite this code or the data set as:  Mueller, T., Segin, A., Weigand, C. and Schmitt, R.H. (2023), "Feature selection for measurement models", International Journal of Quality & Reliability Management, Vol. 40 No. 3, pp. 777-800. https://doi.org/10.1108/IJQRM-07-2021-0245
 
 ---
 
